@@ -448,7 +448,7 @@ Now that the dataset it is clean I am going to plot the data and analyse it furt
 
 #### Answer Questions: Q1 to Q8
 
-I will have applied the same methodology used in \# the Valencia Data set to the Dublin Data set. You can find all the code in the Code.R file in this repository.
+I will have applied the same methodology used in the Valencia Data set to the Dublin Data set. You can find all the code in the Code.R file in this repository.
 
 *Q1. What is the mean, median and standard deviation of the number of reviews per property in the selected city?*
 
@@ -481,7 +481,7 @@ I will have applied the same methodology used in \# the Valencia Data set to the
   
 ```
 
-*Q3. How much above the average price would it cost to stay for a night in the most expensive \# private room in the city?*
+*Q3. How much above the average price would it cost to stay for a night in the most expensive  private room in the city?*
 
 The mean price for a private room is 39.78. To answer this question first I need to calculate the max price of private room and then substract it from the average price.
 
@@ -584,7 +584,7 @@ Q7. Does this host (as identified in Q5) have any properties listed in Dublin? I
 
 **Conclusion**: This host does not have any properties listed in Dublin.
 
-*Q8. Write a function (called “mostHomes”) to determine which neighbourhood in a city has the \# most entire homes/apartments listed on Airbnb and use this function to answer that question for the selected city and for Dublin?*
+*Q8. Write a function (called “mostHomes”) to determine which neighbourhood in a city has the most entire homes/apartments listed on Airbnb and use this function to answer that question for the selected city and for Dublin?*
 
 ```{r}
  # Defining function
