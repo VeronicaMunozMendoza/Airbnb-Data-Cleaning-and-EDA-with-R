@@ -16,7 +16,7 @@
 #### Raw Data
 <img width="1466" alt="Screenshot 2024-07-19 at 11 30 16" src="https://github.com/user-attachments/assets/6d0f8efc-9387-4aba-a489-dcabd97a6941">
 
-#### clean data
+#### cleaned data
 <img width="1466" alt="Screenshot 2024-07-19 at 11 30 25" src="https://github.com/user-attachments/assets/b3b6eff5-c206-48bd-9a5a-ab5184ea8fe2">
 
 
