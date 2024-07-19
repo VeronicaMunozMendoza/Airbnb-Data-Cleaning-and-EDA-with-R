@@ -1,0 +1,32 @@
+≈≈≈≈ DATASET ANALYSIS REFLECTION ≈≈≈≈≈
+
+Author: Veronica Munoz Mendoza
+
+This .txt file includes a brief reflection section on the analysis undertaken on this project. There reflexion is composed of 3 sections: 
+
+Findings
+
+In the Valencia dataset there are listings with only 4 room types: Entire home/apt, hotel, shared room, private room and half of the listings are accounted for “Entire home/apt”. Most of the listings received between 4 and 5 rating stars (positive guest feedback). On the other hand there are over 1500 new listings which no ratings yet, this suggests recent additions to the platform. 
+
+When I compared prices and number of reviews, "Entire home/apt" and private rooms received the highest number of reviews compared with the other room types. However, the overall number of reviews was generally low, I would also conclude that there was no strong correlation between the reviews and the prices. 
+
+In pricing terms, the listings with "Entire home/apt" room type had a wider price ranged compared with the other ones, while shared rooms were the most affordable. 
+
+After my analysis, the mean number of reviews for Valencia was 43.53 (median 13 and std 74.28). This suggests that while a few properties have a very high number of reviews, most properties have a smaller number of reviews. 
+
+On the other hand, the price per night for a private room in Valencia was €60.04, significantly cheaper than in Dublin, when the mean price was €143.56. The host with most properties in Valencia was SingularStays and it was estimated that this host could potentially earn €95,879 per week from their Airbnb listings. However, this host did not have any properties listed in Dublin.
+
+The neighbourhoods with the most entire homes/apartments listed on Airbnb in Valencia was  'Cabanyal-Canyamelar'  with 728 listings and 'Dublin City' in Dublin with 3494. 
+
+Challenges
+During my analysis I faced several challenges, one of them was missing values. I used different methods to handle them, such as calculating the mode for certain columns, imputing the median for others or fitting a linear regression model to predict the missing prices. 
+
+Another challenge was identifying and handling outliers in the datasets. For instance, in the Valencia dataset, there were listings with extremely high prices per night, which were likely errors and not representative of the data. These outliers were removed to prevent them from skewing the results of the analysis.
+
+Issues / Weaknesses	
+
+One of the weakness in the analysis will be the potential inaccuracy of the predicted prices. Although I had used linear regression model to predict the missing prices, these predictions may not be entirely accurate and could affect the reliability of the analysis.
+
+Another weakness was the assumption made when calculating potential earnings for the host with the most properties. The calculation performed, assumed that all of the host's properties were booked for the entire week, which may not be the case in reality.
+
+Lastly, the analysis was limited to only two cities - Valencia and Dublin. While this provided interesting comparisons, the findings may not be generalizable to other cities or countries. A possible next steps would be to use more advance statistical techniques such as Robust Regression that that can reduce the impact of outliers in the dataset or to include more cities for a broader comparison. 
