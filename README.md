@@ -2,16 +2,17 @@
 
 ## Table of Contents
 
--   [Project Details](#Project-details)
--   [Data Sources](#Data-Sources)
--   [Project Structure](#Project-Structure)
-    -   Data understanding (preliminary data understanding analysis)
-    -   Data Preparation (Data cleaning)
-    -   Data Exploration (Exploratory Data Analysis (EDA))
--   [Project Reflection](#Project-Reflection)
-    -   Findings
-    -   Challenges
-    -   Issues / Weaknesses
+- [Project Details](#project-details)
+- [Data Sources](#data-sources)
+- [Project Structure](#project-structure)
+    - [Data Understanding (preliminary data understanding analysis)](#data-understanding-preliminary-data-understanding-analysis)
+    - [Data Preparation (Data cleaning)](#data-preparation-data-cleaning)
+    - [Data Exploration (Exploratory Data Analysis (EDA))](#data-exploration-exploratory-data-analysis-eda)
+- [Project Reflection](#project-reflection)
+    - [Findings](#findings)
+    - [Challenges](#challenges)
+    - [Issues / Weaknesses](#issues--weaknesses)
+
 
 ## Project Details
 
