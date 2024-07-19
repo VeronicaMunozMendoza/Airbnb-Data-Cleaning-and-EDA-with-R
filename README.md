@@ -8,7 +8,7 @@
     -   Data understanding (preliminary data understanding analysis)
     -   Data Preparation (Data cleaning)
     -   Data Exploration (Exploratory Data Analysis (EDA))
--   [Project Reflection](#Project-Reflexion)
+-   [Project Reflection](#Project-Reflection)
     -   Findings
     -   Challenges
     -   Issues / Weaknesses
