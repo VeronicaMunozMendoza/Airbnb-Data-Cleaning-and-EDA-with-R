@@ -425,6 +425,15 @@ Now that the dataset it is clean I am going to plot the data and analyse it furt
       
 ```
 
+![im04](https://github.com/user-attachments/assets/d99f4c11-52da-4e74-b46d-60ec7834656b)
+
+![im01](https://github.com/user-attachments/assets/8b5384cf-46e7-48e8-8360-0b58f6a7661c)
+
+![im00](https://github.com/user-attachments/assets/a88ffa44-fc28-4af2-a916-8d8dbb1b6dab)
+
+![im02](https://github.com/user-attachments/assets/bcc93732-d018-4a7a-bbe0-b22a5dcb9004)
+
+
 #### Conclusions/findings:
 
 -   Bar plot: Half of the listings accounts for the room_type Entire home/apt.
