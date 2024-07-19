@@ -5,7 +5,7 @@
 -   [Project Details](#Project-details)
 -   [Data Sources](#Data-Sources)
 -   [Project Structure](#Project-Structure)
-    -   [Data understanding (preliminary data understanding analysis)](#Data-understanding-(preliminary-data-understanding-analysis)
+    -   Data understanding (preliminary data understanding analysis)
     -   Data Preparation (Data cleaning)
     -   Data Exploration (Exploratory Data Analysis (EDA))
 -   [Project Reflection](#Project-Reflection)
